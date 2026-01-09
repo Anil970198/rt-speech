@@ -90,5 +90,4 @@ If you wish to retrain the SVM on new data:
 2.  Run: `python src/train_svm.py`.
 
 ---
-*Author: [Your Name/Anil Kumar]*
-*Lab: Gen AI Projects*
+*Author: Anil Kumar Mondru*
